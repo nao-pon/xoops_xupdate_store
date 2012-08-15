@@ -10,4 +10,4 @@ tag = "Wiki PukiWiki"
 
 [xelfinder]
 description = "Web ファイルマネージャー elFinder for XOOPS<br />HypConf(HypCommon) が必須です。"
-tag = "ファイルマネージャ ファイルアップローダ イメージマネージャ elFinder"
+tag = "ファイルマネージャ ファイルアップロード 画像アップロード イメージマネージャ elFinder"
