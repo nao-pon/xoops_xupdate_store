@@ -6,7 +6,7 @@ tag = "スパム対策 モバイル対応 ライブラリ ユーティリティ"
 
 [xpwiki]
 description = "PukiWiki ベースの Wiki モジュール<br />HypConf(HypCommon) が必須です。"
-tag = "Wiki PukiWiki"
+tag = "Wiki PukiWiki コンテンツ ドキュメント ファイルアップロード"
 
 [xelfinder]
 description = "Web ファイルマネージャー elFinder for XOOPS<br />HypConf(HypCommon) が必須です。"
