@@ -109,3 +109,68 @@ writable_dir[] = "%3$s/uploads/xelfinder"
 install_only[] = "%2$s/modules/%1$s/.htaccess"
 install_only[] = "%2$s/modules/%1$s/cache"
 install_only[] = "%3$s/uploads/xelfinder"
+
+[emoji_au]
+dirname = "emoji_au"
+target_key = "emoji_au"
+target_type = "X2Module"
+version = "1.00"
+replicatable= false
+addon_url = "http://xoops.hypweb.net/download/emoji_au.zip"
+detail_url = "http://xoops.hypweb.net/modules/xpwiki/156.html"
+license = "GPL"
+required = "normal"
+description = "au emoji pack for K-tai renderer."
+tag = "Emoji Mobile"
+
+[emoji_SoftBank]
+dirname = "emoji_SoftBank"
+target_key = "emoji_SoftBank"
+target_type = "X2Module"
+version = "1.00"
+replicatable= false
+addon_url = "http://xoops.hypweb.net/download/emoji_SoftBank.zip"
+detail_url = "http://xoops.hypweb.net/modules/xpwiki/156.html"
+license = ""
+required = "normal"
+description = "SoftBank emoji pack for K-tai renderer.<br />Not available on commercial sites this emoticon pack."
+tag = "Emoji Mobile"
+
+[emoji_au]
+dirname = "emoji_au"
+target_key = "emoji_au"
+target_type = "X2Module"
+version = "1.00"
+replicatable= false
+addon_url = "http://xoops.hypweb.net/download/emoji_au.zip"
+detail_url = "http://xoops.hypweb.net/modules/xpwiki/156.html"
+license = "GPL"
+required = "normal"
+description = "au emoji pack for K-tai renderer"
+tag = "Emoji Mobile"
+
+[emoji_TypePad_docomo]
+dirname = "emoji_TypePad_docomo"
+target_key = "emoji_TypePad_docomo"
+target_type = "X2Module"
+version = "1.00"
+replicatable= false
+addon_url = "http://xoops.hypweb.net/download/emoji_TypePad_docomo.zip"
+detail_url = "http://xoops.hypweb.net/modules/xpwiki/156.html"
+license = "GPL"
+required = "normal"
+description = "docomo emoji pack for K-tai renderer by TypePad.<br /><a href="http://start.typepad.jp/typecast/">About TypePad pictogram (Japanese)</a>"
+tag = "Emoji Mobile"
+
+[googleAdsenseMobileExt]
+dirname = "googleAdsenseMobileExt"
+target_key = "googleAdsenseMobileExt"
+target_type = "TrustModule"
+version = "1.00"
+replicatable= false
+addon_url = "http://xoops.hypweb.net/download/googleAdsenseMobileExt.zip"
+detail_url = "http://xoops.hypweb.net/modules/xpwiki/383.html#t99cca95"
+license = ""
+required = "normal"
+description = "Extention of \"google AdSense for mobile\" for K-tai renderer"
+tag = "Mobile"
