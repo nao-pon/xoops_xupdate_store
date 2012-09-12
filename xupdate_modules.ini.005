@@ -111,6 +111,7 @@ writable_dir[] = "%3$s/uploads/xelfinder"
 
 install_only[] = "%2$s/modules/%1$s/.htaccess"
 install_only[] = "%2$s/modules/%1$s/cache"
+install_only[] = "%3$s/modules/%1$s/preload/xelfinderPreload.class.php*"
 install_only[] = "%3$s/uploads/xelfinder"
 
 [emoji_au]
