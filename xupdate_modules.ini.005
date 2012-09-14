@@ -114,6 +114,20 @@ install_only[] = "%2$s/modules/%1$s/cache"
 install_only[] = "%2$s/modules/%1$s/preload/xelfinderPreload.class.php*"
 install_only[] = "%3$s/uploads/xelfinder"
 
+[ckeditor4]
+dirname = "ckeditor4"
+target_key = "ckeditor4"
+target_type = "X2Module"
+version = "0.10"
+replicatable= false
+addon_url = "https://github.com/nao-pon/%s/zipball/master"
+detail_url = "https://github.com/nao-pon/ckeditor4"
+changes_url = "https://github.com/nao-pon/ckeditor4/commits/master/"
+license = "GPL"
+required = "normal"
+description = "CKEditor 4 for XOOPS Cube Legacy<br />X-elFinder can be used as a server browser."
+tag = "HTML-Editor CKEditor"
+
 [emoji_au]
 dirname = "emoji_au"
 target_key = "emoji_au"
