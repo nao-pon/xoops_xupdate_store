@@ -128,6 +128,7 @@ required = "normal"
 description = "CKEditor 4 for XOOPS Cube Legacy<br />X-elFinder can be used as a server browser."
 tag = "HTML-Editor CKEditor"
 delete_dir[] = "%2$s/modules/ckeditor4/preload/parent"
+install_only[] = "%2$s/class/smarty/plugins*"
 
 [emoji_au]
 dirname = "emoji_au"
