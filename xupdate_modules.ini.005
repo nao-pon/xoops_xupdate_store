@@ -114,6 +114,8 @@ install_only[] = "%2$s/modules/%1$s/cache"
 install_only[] = "%2$s/modules/%1$s/preload/xelfinderPreload.class.php*"
 install_only[] = "%3$s/uploads/xelfinder"
 
+delete_dir[] = "%3$s/libs/elfinder/php/Dropbox"
+
 [ckeditor4]
 dirname = "ckeditor4"
 target_key = "ckeditor4"
