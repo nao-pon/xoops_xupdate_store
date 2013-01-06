@@ -31,3 +31,8 @@ tag = "絵文字 モバイル対応"
 [googleAdsenseMobileExt]
 description = "携帯対応レンダラー用の \"google AdSense for mobile\" のための追加ファイル。<br /><a href="http://xoops.hypweb.net/modules/xpwiki/383.html#t99cca95">この追加ファイルの使用方法について</a>"
 tag = "Mobile"
+
+[tagmemo]
+description = "シンプルな ブックマーク & メモ モジュール。<br />Original: <a href="http://sourceforge.jp/projects/tagmemo/">Tagmemo project</a>"
+tag = "ブックマーク メモ タグ"
+
