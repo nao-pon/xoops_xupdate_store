@@ -201,7 +201,7 @@ tag = "Mobile"
 dirname = "tagmemo"
 target_key = "tagmemo"
 target_type = "X2Module"
-version = "0.23"
+version = "0.24"
 replicatable= false
 addon_url = "https://github.com/nao-pon/tagmemo/archive/master.zip"
 detail_url = "https://github.com/nao-pon/tagmemo"
@@ -209,4 +209,11 @@ license = "GPL"
 required = "normal"
 description = "Simple bookmark and memo module. <br />Original: <a href="http://sourceforge.jp/projects/tagmemo/">Tagmemo project</a>"
 tag = "Bookmark Memo Tag"
+
 writable_dir[] = "%2$s/uploads/tagmemo"
+
+delete_file[] = "%2$s/modules/tagmemo/admin/admin.php"
+delete_file[] = "%2$s/modules/tagmemo/admin/myblockform.php"
+delete_file[] = "%2$s/modules/tagmemo/admin/myblocksadmin.php"
+delete_file[] = "%2$s/modules/tagmemo/admin/myblocksadmin2.php"
+
