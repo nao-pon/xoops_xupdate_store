@@ -205,6 +205,7 @@ version = "0.3"
 replicatable= false
 addon_url = "https://github.com/nao-pon/tagmemo/archive/master.zip"
 detail_url = "https://github.com/nao-pon/tagmemo"
+changes_url = "https://github.com/nao-pon/tagmemo/commits/master/"
 license = "GPL"
 required = "normal"
 description = "Simple bookmark and memo module. <br />Original: <a href="http://sourceforge.jp/projects/tagmemo/">Tagmemo project</a>"
